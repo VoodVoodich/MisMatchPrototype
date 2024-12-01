@@ -49,12 +49,12 @@ class CluesRecepies
 
 
 
-        AddRecipe(("Greedy Boss", "A Boss Rumour"), "Cost Effective Boss", new List<string>{"Greedy Boss"});
+        AddRecipe(("Greedy Boss", "A Boss Rumour"), "Cost Effective Boss");
 
 
         
-        AddRecipe(("Boss and the victim convo exploaded", "Missed the important part"), "Possibilities in the storage room", new List<string>{"Boss and the victim convo exploaded"});
-        AddRecipe(("Victim and the Boss tension", "Filled gaps"), "Victim and the Boss connection", new List<string>{"Victim and the Boss tension"});
+        AddRecipe(("Boss and the victim convo exploaded", "Missed the important part"), "Possibilities in the storage room");
+        AddRecipe(("Victim and the Boss tension", "Filled gaps"), "Victim and the Boss connection");
 
 
         AddRecipe(("Victim and the Boss tension", "Boss and the victim convo exploaded"), "Boss suspect");
